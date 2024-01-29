@@ -1,0 +1,26 @@
+{
+    "Notes": [
+        "arrowDOWN",
+        "arrowLEFT",
+        "arrowUP",
+        "arrowRIGHT"
+    ],
+    "NotesConfirm": [
+        "left confirm",
+        "down confirm",
+        "up confirm",
+        "right confirm"
+    ],
+    "NotesPress": [
+        "left press",
+        "down press",
+        "up press",
+        "right press"
+    ],
+    "NotesStatic": [
+        "purple",
+        "blue",
+        "green",
+        "red"
+    ]
+}
