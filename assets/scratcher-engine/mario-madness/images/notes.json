@@ -1,5 +1,5 @@
 {
-    "Notes": [
+    "NotesStatic": [
         "arrowDOWN",
         "arrowLEFT",
         "arrowUP",
@@ -17,7 +17,7 @@
         "up press",
         "right press"
     ],
-    "NotesStatic": [
+    "Notes": [
         "purple",
         "blue",
         "green",
