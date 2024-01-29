@@ -1,7 +1,7 @@
 {
     "NotesStatic": [
-        "arrowDOWN",
         "arrowLEFT",
+        "arrowDOWN",
         "arrowUP",
         "arrowRIGHT"
     ],
