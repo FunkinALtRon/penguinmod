@@ -8,7 +8,7 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "Ultra M idle instance",
+			"name": "Ultra M idle instance ",
 			"indices": []
 		},
 		{
@@ -19,7 +19,7 @@
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "Ultra M left instance",
+			"name": "Ultra M left instance ",
 			"indices": []
 		},
 		{
@@ -30,7 +30,7 @@
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "Ultra M right instance",
+			"name": "Ultra M right instance ",
 			"indices": []
 		},
 		{
@@ -41,7 +41,7 @@
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "Ultra M down instance",
+			"name": "Ultra M down instance ",
 			"indices": []
 		},
 		{
@@ -52,7 +52,7 @@
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "Ultra M up instance",
+			"name": "Ultra M up instance ",
 			"indices": []
 		}
 	],
