@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="not-normal-mic.png"><SubTexture name="not-normal-mic idle dance0000" x="0" y="1164" width="1342" height="1099" frameX="-799" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not-normal-mic pickup0000" x="0" y="1164" width="1342" height="1099" frameX="-799" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not-normal-mic pickup0001" x="0" y="1164" width="1342" height="1099" frameX="-799" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not-normal-mic pickup0002" x="2382" y="0" width="1298" height="1094" frameX="-799" frameY="-724" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not-normal-mic pickup0003" x="2382" y="0" width="1298" height="1094" frameX="-799" frameY="-724" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not-normal-mic pickup0004" x="2382" y="1094" width="1242" height="1086" frameX="-799" frameY="-732" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not-normal-mic pickup0005" x="2382" y="1094" width="1242" height="1086" frameX="-799" frameY="-732" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not-normal-mic pickup0006" x="0" y="2263" width="1221" height="1070" frameX="-799" frameY="-748" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not-normal-mic pickup0007" x="0" y="2263" width="1221" height="1070" frameX="-799" frameY="-748" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not-normal-mic pickup0008" x="1221" y="2263" width="1217" height="1065" frameX="-799" frameY="-753" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not-normal-mic pickup0009" x="1221" y="2263" width="1217" height="1065" frameX="-799" frameY="-753" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not-normal-mic pickup0010" x="1180" y="0" width="1202" height="1148" frameX="-814" frameY="-753" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not-normal-mic pickup0011" x="1180" y="0" width="1202" height="1148" frameX="-814" frameY="-753" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not-normal-mic pickup0012" x="0" y="0" width="1180" height="1164" frameX="-836" frameY="-753" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not-normal-mic pickup0013" x="0" y="0" width="1180" height="1164" frameX="-836" frameY="-753" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not-normal-mic pickup0014" x="2438" y="2263" width="1050" height="1058" frameX="-966" frameY="-753" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not-normal-mic pickup0015" x="2438" y="2263" width="1050" height="1058" frameX="-966" frameY="-753" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not-normal-mic pickup0016" x="3680" y="0" width="1050" height="1058" frameX="-966" frameY="-753" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not-normal-mic pickup0017" x="3680" y="0" width="1050" height="1058" frameX="-966" frameY="-753" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not-normal-mic pickup0018" x="3680" y="2086" width="861" height="1022" frameX="-1155" frameY="-753" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not-normal-mic pickup0019" x="3680" y="2086" width="861" height="1022" frameX="-1155" frameY="-753" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not-normal-mic pickup0020" x="3680" y="1058" width="939" height="1028" frameX="-1077" frameY="-753" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not-normal-mic pickup0021" x="3680" y="1058" width="939" height="1028" frameX="-1077" frameY="-753" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not-normal-mic pickup0022" x="0" y="3333" width="1054" height="1035" frameX="-1038" frameY="-753" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not-normal-mic pickup0023" x="0" y="3333" width="1054" height="1035" frameX="-1038" frameY="-753" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not-normal-mic pickup0024" x="1054" y="3333" width="1093" height="1007" frameX="-1037" frameY="-753" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not-normal-mic pickup0025" x="1054" y="3333" width="1093" height="1007" frameX="-1037" frameY="-753" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not-normal-mic pickup0026" x="4730" y="967" width="1190" height="963" frameX="-1047" frameY="-758" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not-normal-mic pickup0027" x="4730" y="967" width="1190" height="963" frameX="-1047" frameY="-758" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not-normal-mic pickup0028" x="0" y="4368" width="1202" height="942" frameX="-1053" frameY="-775" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not-normal-mic pickup0029" x="0" y="4368" width="1202" height="942" frameX="-1053" frameY="-775" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not-normal-mic pickup0030" x="2147" y="3333" width="1189" height="970" frameX="-1060" frameY="-699" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not-normal-mic pickup0031" x="2147" y="3333" width="1189" height="970" frameX="-1060" frameY="-699" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not-normal-mic pickup0032" x="4730" y="0" width="1192" height="967" frameX="-1064" frameY="-710" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not-normal-mic pickup0033" x="4730" y="0" width="1192" height="967" frameX="-1064" frameY="-710" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not-normal-mic pickup0034" x="3336" y="3333" width="1192" height="968" frameX="-1065" frameY="-715" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not-normal-mic pickup0035" x="3336" y="3333" width="1192" height="968" frameX="-1065" frameY="-715" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not-normal-mic idle done0000" x="3336" y="3333" width="1192" height="968" frameX="-1065" frameY="-715" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>

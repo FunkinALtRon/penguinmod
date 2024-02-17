@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="not_normal.png"><SubTexture name="not_normal idle dance0000" x="0" y="3461" width="1249" height="956" frameX="-1048" frameY="-742" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not_normal idle dance0001" x="1249" y="3461" width="1233" height="953" frameX="-1064" frameY="-742" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not_normal idle dance0002" x="2482" y="3461" width="1188" height="949" frameX="-1100" frameY="-742" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not_normal idle dance0003" x="2482" y="3461" width="1188" height="949" frameX="-1100" frameY="-742" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not_normal idle dance0004" x="4535" y="0" width="1202" height="942" frameX="-1078" frameY="-742" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not_normal idle dance0005" x="4535" y="0" width="1202" height="942" frameX="-1078" frameY="-742" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not_normal idle dance0006" x="2358" y="2370" width="1198" height="958" frameX="-1066" frameY="-726" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not_normal idle dance0007" x="2358" y="2370" width="1198" height="958" frameX="-1066" frameY="-726" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not_normal idle dance0008" x="1167" y="2370" width="1191" height="965" frameX="-1066" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not_normal idle dance0009" x="1167" y="2370" width="1191" height="965" frameX="-1066" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not_normal down note0000" x="0" y="0" width="1106" height="1192" frameX="-1147" frameY="-356" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not_normal down note0001" x="1106" y="0" width="1103" height="1192" frameX="-1150" frameY="-356" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not_normal down note0002" x="1160" y="1192" width="1103" height="1139" frameX="-1150" frameY="-386" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not_normal down note0003" x="1160" y="1192" width="1103" height="1139" frameX="-1150" frameY="-386" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not_normal down note0004" x="3372" y="1132" width="1104" height="1103" frameX="-1150" frameY="-406" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not_normal left note0000" x="1553" y="5349" width="1550" height="767" frameX="-922" frameY="-722" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not_normal left note0001" x="0" y="5349" width="1553" height="772" frameX="-919" frameY="-721" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not_normal left note0002" x="5737" y="900" width="1516" height="765" frameX="-938" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not_normal left note0003" x="5737" y="900" width="1516" height="765" frameX="-938" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not_normal left note0004" x="5737" y="1665" width="1472" height="765" frameX="-960" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not_normal right note0000" x="0" y="4417" width="1611" height="932" frameX="-796" frameY="-701" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not_normal right note0001" x="1611" y="4417" width="1611" height="923" frameX="-795" frameY="-712" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not_normal right note0002" x="3222" y="4417" width="1550" height="909" frameX="-825" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not_normal right note0003" x="3222" y="4417" width="1550" height="909" frameX="-825" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not_normal right note0004" x="5737" y="0" width="1531" height="900" frameX="-834" frameY="-719" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not_normal up note0000" x="2209" y="0" width="1163" height="1179" frameX="-1194" frameY="-704" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not_normal up note0001" x="0" y="1192" width="1160" height="1178" frameX="-1197" frameY="-704" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not_normal up note0002" x="3372" y="0" width="1163" height="1132" frameX="-1197" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not_normal up note0003" x="3372" y="0" width="1163" height="1132" frameX="-1197" frameY="-720" frameWidth="3299" frameHeight="2505" />
+<SubTexture name="not_normal up note0004" x="0" y="2370" width="1167" height="1091" frameX="-1197" frameY="-731" frameWidth="3299" frameHeight="2505" />
+</TextureAtlas>
