@@ -1,0 +1,43 @@
+{
+    "path": "game/notes/",
+    "notes": [
+        {
+            "type": "normal",
+            "press": [
+                "left press",
+                "down press",
+                "up press",
+                "right press"
+            ],
+
+            "confirm": [
+                "left confirm",
+                "down confirm",
+                "up confirm",
+                "right confirm"
+            ],
+
+            "arrow": [
+                "arrowLEFT",
+                "arrowDOWN",
+                "arrowUP",
+                "arrowRIGHT"
+            ],
+
+            "notes": [
+                "purple",
+                "blue",
+                "green",
+                "red",
+                "pruple end piece",
+                "pruple end hold",
+                "blue hold piece",
+                "blue hold end",
+                "green end piece",
+                "green end hold",
+                "red hold piece",
+                "red hold end"
+            ]
+        }
+    ]
+}
