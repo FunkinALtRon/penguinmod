@@ -1,6 +1,6 @@
-<!DOCTYPE penguin-stage>
+<!DOCTYPE penguin-stage> 
 <stage zoom="0.9" path="game/stages/stage/">
     <sprite tag="stageback" sprite="stageback" x="0" y="0" scrollx="0.9" scrolly="0.9"/>
-    <sprite tag="stagefront" sprite="stagefront" x="0" y="-175" scrollx="1.1" scrolly="1.1"/>
-    <sprite tag="stagecurtains" sprite="stagecurtains" x="0" y="-100" scrollx="1.4" scrolly="1.4"/>
+    <sprite tag="stagefront" sprite="stagefront" x="0" y="0" scrollx="1.1" scrolly="1.1"/>
+    <sprite tag="stagecurtains" sprite="stagecurtains" x="0" y="0" scrollx="1.25" scrolly="1.25"/>
 </stage>
