@@ -31,7 +31,7 @@
             "BlockedFrames": []
         }
     },
-    "SpritePath": "characters/boyfriend",
+    "SpritePath": "characters/BOYFRIEND",
     "Scale": 1,
     "iconSprite": "icons/icon-bf",
     "HealthColor": "5e9af2",
