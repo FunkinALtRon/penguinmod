@@ -1,0 +1,3 @@
+story_mode
+credits
+options
