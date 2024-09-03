@@ -20,7 +20,7 @@
         },
         "singUP": {
             "fps": 24,
-            "anim": "Dad Sing Note UP",
+            "anim": "Dad Sing note UP",
             "offsets": [0,0],
             "BlockedFrames": []
         },
