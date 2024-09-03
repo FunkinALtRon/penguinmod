@@ -2,31 +2,31 @@
     "Animations": {
         "idle": {
             "fps": 24,
-            "anim": "idle",
+            "anim": "Dad idle dance",
             "offsets": [0,0],
             "BlockedFrames": []
         },
         "singLEFT": {
             "fps": 24,
-            "anim": "singLEFT",
+            "anim": "dad sing note right",
             "offsets": [0,0],
             "BlockedFrames": []
         },
         "singDOWN": {
             "fps": 24,
-            "anim": "singDOWN",
+            "anim": "Dad Sing Note DOWN",
             "offsets": [0,0],
             "BlockedFrames": []
         },
         "singUP": {
             "fps": 24,
-            "anim": "singUP",
+            "anim": "Dad Sing Note UP",
             "offsets": [0,0],
             "BlockedFrames": []
         },
         "singRIGHT": {
             "fps": 24,
-            "anim": "singRIGHT",
+            "anim": "Dad Sing Note LEFT",
             "offsets": [0,0],
             "BlockedFrames": []
         }
