@@ -2,37 +2,37 @@
     "Animations": {
         "idle": {
             "fps": 24,
-            "anim": "BF idle dance",
+            "anim": "idle",
             "offsets": [0,0],
             "BlockedFrames": []
         },
         "singLEFT": {
             "fps": 24,
-            "anim": "BF NOTE LEFT",
+            "anim": "singLEFT",
             "offsets": [0,0],
             "BlockedFrames": []
         },
         "singDOWN": {
             "fps": 24,
-            "anim": "BF NOTE DOWN",
+            "anim": "singDOWN",
             "offsets": [0,0],
             "BlockedFrames": []
         },
         "singUP": {
             "fps": 24,
-            "anim": "BF NOTE UP",
+            "anim": "singUP",
             "offsets": [0,0],
             "BlockedFrames": []
         },
         "singRIGHT": {
             "fps": 24,
-            "anim": "BF NOTE RIGHT",
+            "anim": "singRIGHT",
             "offsets": [0,0],
             "BlockedFrames": []
         }
     },
     "Scale": 1,
-    "sprites": "characters/BOYFRIEND", 
+    "sprites": "characters/daddyDearest", 
     "iconSprite": "icons/icon-bf",
     "HealthColor": "5e9af2",
     "position": [0,0],
