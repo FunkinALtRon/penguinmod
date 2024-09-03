@@ -32,7 +32,7 @@
         }
     },
     "Scale": 1,
-    "sprites": "characters/daddyDearest", 
+    "sprites": "characters/dad", 
     "iconSprite": "icons/icon-bf",
     "HealthColor": "5e9af2",
     "position": [0,0],
